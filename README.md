@@ -45,5 +45,7 @@ You can choose the text editor of your choice. however, the development was done
     - Open Folder
     - Find and select the project "client" (you must enter the client folder to load the project)
 
-2.  In the terminal of visual studio (ctrl + ñ) Run the project with the option ---->   "ng serve -o"
-     if there is any error give the command   ---->    "npm install"
+2.  In the terminal of visual studio (ctrl + ñ) give the command   ---->    "npm install" 
+
+3.   In the terminal of visual studio (ctrl + ñ) Run the project with the option ---->   "ng serve -o"
+     if there is any error repeat the command   ---->    "npm install"
