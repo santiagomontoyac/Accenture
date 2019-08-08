@@ -8,7 +8,7 @@
 
     ```
     1. Enter a source destination folder and execute the command:
-	   git clone -b development https://gitlab.com/santiagomontoyac/accentureregisterbank.git
+	   git clone -b master https://github.com/santiagomontoyac/Accenture.git
 
     ```  
 
@@ -17,7 +17,7 @@
     - go to: ***Windows -> preferences -> general -> workspaces -> Linked Resources***
     - Click in New, to write:  
     -- **Name:** SOURCE_LOC  
-    -- **Location:** ***\<PATH\>***  (Replace <PATH> with the path of the **accentureregisterbank** folder previously cloned in point 1.)	
+    -- **Location:** ***\<PATH\>***  (Replace <PATH> with the path of the **Accenture** folder previously cloned in point 1.)	
 
 3. Import the project from IDE Spring Boot (or Eclipse)  
     - ClicK on ***File/Import...***
